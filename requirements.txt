@@ -8,3 +8,4 @@ google-genai
 google-generativeai
 tiktoken>=0.8.0,<0.13
 groq
+litellm
